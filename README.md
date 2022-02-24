@@ -1,5 +1,5 @@
 # Unity-Timetrial-Ghost
-Time trial ghosts for any kind of speed running game.
+Time trial ghosts for any kind of speed running game. <strong>I'll be working on a feature rich version on my [Patreon](https://www.patreon.com/tarodev)</strong>
 
 
 
